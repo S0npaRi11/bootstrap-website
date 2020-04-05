@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /js
+Disallow: /vendor
+Disallow: /new.css
